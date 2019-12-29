@@ -1,0 +1,26 @@
+{
+  "cursor": true,
+  "version": "1.0.0",
+  "name": "Prep Buddy",
+  "description": "An app that helps you prepare for you next big exam",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/assets/iconS.png",
+    "112": "/assets/iconL.png"
+  },
+  "developer": {
+    "name": "Prep Buddy",
+    "url": "https://www.github.com/Prep-Buddy"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Prep Buddy",
+      "subtitle": "The prep buddy you've been looking for",
+      "description": "An app that helps you prepare for you next big exam."
+    }
+  },
+  "default_locale": "en-US",
+  "fullscreen": "true",
+  "cursor": true
+}
